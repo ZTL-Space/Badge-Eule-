@@ -2749,9 +2749,46 @@
     )
   )
 
+  (gr_poly
+    (pts
+      (xy 50.546 48.514)
+      (xy 49.276 49.784)
+      (xy 47.371 47.752)
+      (xy 48.641 46.482)
+    ) (layer "B.Mask") (width 0.15) (fill solid) (tstamp 12bc1763-541f-4d58-aac5-0d3fd81abcdc))
   (gr_circle (center 46.77 39.45) (end 51.77 39.45) (layer "B.Mask") (width 0.15) (fill solid) (tstamp ae84b078-4efc-460c-a966-9aa28a5f5999))
   (gr_rect (start 46.77 34.45) (end 64.77 44.45) (layer "B.Mask") (width 0.15) (fill solid) (tstamp bfae99f7-5684-4f53-96d3-5bc31a1a2133))
   (gr_circle (center 64.77 39.45) (end 69.77 39.45) (layer "B.Mask") (width 0.15) (fill solid) (tstamp dacf0b65-9358-4d6e-bb09-64554e851cc2))
+  (gr_poly
+    (pts
+      (xy 64.135 47.879)
+      (xy 62.23 49.784)
+      (xy 60.96 48.514)
+      (xy 62.865 46.609)
+    ) (layer "B.Mask") (width 0.15) (fill solid) (tstamp e9106955-5d56-4497-b4d1-2d8954fdf28b))
+  (gr_poly
+    (pts
+      (xy 64.516 46.228)
+      (xy 64.516 47.752)
+      (xy 63.5 49.276)
+      (xy 62.23 50.292)
+      (xy 58.928 49.276)
+      (xy 59.436 47.752)
+      (xy 60.706 45.974)
+      (xy 62.992 44.704)
+      (xy 63.5 44.704)
+    ) (layer "F.Mask") (width 0.15) (fill solid) (tstamp 63517a04-3fe3-4d56-b6ce-e01e2386a907))
+  (gr_poly
+    (pts
+      (xy 52.832 49.276)
+      (xy 50.8 50.292)
+      (xy 49.022 50.038)
+      (xy 47.498 48.768)
+      (xy 47.244 47.498)
+      (xy 47.244 45.974)
+      (xy 48.006 44.704)
+      (xy 49.022 44.45)
+    ) (layer "F.Mask") (width 0.15) (fill solid) (tstamp 6711138c-b532-4078-a864-043902c0c71a))
   (gr_poly
     (pts
       (xy 55.771 33.141)
