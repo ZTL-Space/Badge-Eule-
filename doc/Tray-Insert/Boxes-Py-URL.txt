@@ -1,0 +1,1 @@
+https://festi.info/boxes.py/TrayInsert?sx=111*5&sy=118*3&h=135&outside=0&outside=1&thickness=4.0&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&language=de&render=0
