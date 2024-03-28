@@ -90,7 +90,7 @@ Jetzt erhitzt du mit dem Lötkolben die verzinnte Lötstelle und
 schiebst den Batteriehalter darauf. Da die Lötstelle sehr groß ist, ist es hilfreich, die Spitze des Lötkolbens eher flach aufzusetzen. Jetzt noch die andere Seite festlöten und du hast es geschafft!
 
 ## Schritt 5
-### Batterie und Testen
+### Batterie einsetzen und Testen
 
 Jetzt bist du fertig mit dem Löten. Allerdings brauchst du noch eine Stromquelle, bevor die Eule funktioniert. Bei der Batterie musst du darauf achten, sie richtig herum einzusetzen. Die Seite mit dem "+" und der Schrift muss nach oben zu dir zeigen.
 
