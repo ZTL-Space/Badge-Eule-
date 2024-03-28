@@ -6,12 +6,17 @@
 
 ## Bauteile 
 
-- 1x Platine in Silber oder Gold
+- 1x Eulenplatine in Silber/Weiß oder Gold/Schwarz
 - 1x Batteriehalter
-- 1x Batterie 3 Volt
+- 1x Batterie (CR2032 Knopfzelle, 3 Volt)
 - 1x Schalter (An-Aus)
-- 2x LEDs in verschiedenen Farben
-- 2x Widerstände mit verschiedenen Werten
+- 2x LEDs (verschiedenen Farben möglich)
+- 2x Widerstände mit den passenden Werten zu den LEDs
+
+## Benötigte Werkzeuge
+- Lötkolben
+- Lötzinn
+- Pinzette
 
 ## Wo kommt was hin?
 
@@ -22,82 +27,73 @@
 | BT1                  | Batteriehalter |
 | SW1                  | Schalter       |
 
-## Auswahl der LEDs
-und die dazugehörigen Widerstände
+## Auswahl der LEDs und passende Widerstände
 
-| Farbe   | Widerstand  |
-| :------ | :---------- |
-| Rot     | 82 Ω        |
-| Grün    | 56 Ω        |
-| Gelb    | 47 Ω        |
-| Blau    | 5,6 Ω       |
-| Bunt    | 0 Ω         |
+LEDs brauchen je nach Farbe unterschiedliche Spannungswerte. Da unsere Batterie immer 3 Volt ausgibt, müssen wir die Spannung mithilfe von Widerständen anpassen.
 
-Verschiedene LEDs brauchen unterschiedliche Spannungen. Da unsere Batterie 3 Volt ausgibt, müssen wir die Spannung mithilfe von Widerständen herabsetzen.
+Passend zu den LED-Farben im Set sind die richtigen Widerstände schon dabei. Mit dieser Tabelle kannst du es überprüfen:
 
-Suche dir alle Bauteile zusammen, die du benötigst.
-Wähle die Farben deiner LEDs und hole dir die
-entsprechenden Widerstände.
+| LED Farbe   | Widerstand  |
+| :---------- | :---------- |
+| Rot         | 82 Ω        |
+| Grün        | 56 Ω        |
+| Gelb        | 47 Ω        |
+| Blau        | 5,6 Ω       |
+| Bunt        | 0 Ω         |
+
 
 ## Schritt 1
+### Widerstände löten (R1, R2)
 
-Widerstände einlöten (R1, R2)
-
-Zuerst müssen wir die Lötstelle vorverzinnen.
+Zuerst musst du eine Lötstelle vorverzinnen.
 Halte hierfür deinen Lötkolben auf die obere Lötstelle und führe dann langsam Lötzinn hinzu.
 
-Jetzt nimmst du den Widerstand mit der Pinzette in der einen Hand und mit der andere Hand erhitzt du das Lötzinn.
-Wenn das Zinn flüssig ist, schiebst du den Widerstand in Position. Anschließend löten wir noch die untere Seite an.
+Bei den Widerständen musst du nicht drauf achten, wie herum sie gedreht sind. Nimm den Widerstand mit einer Pinzette auf. Mit dem Lötkolben in der anderen Hand erhitzt du nochmal das Lötzinn auf der vorverzinnten Stelle.
+Wenn das Zinn flüssig ist, schiebst du den Widerstand in Position. Anschließend lötest du noch die andere Seite des Widerstands fest.
 
-Diesen Schritt wiederholst du auf der anderen Seite.
-
-Bei den Widerständen musst du nicht drauf achten wie rum sie sind.
+Beim zweiten Widerstand machst du es genauso nochmal.
 
 ## Schritt 2
 
-LEDs löten (D1, D2)
+### LEDs löten (D1, D2)
 
-Zuerst müssen wir die Stelle wieder vorverzinnen. Dieses
-Mal musst du mehr Lötzinn aufbringen.
+Zuerst solltest du wieder eine Lötstelle vorverzinnen. Dieses
+Mal musst du etwas mehr Lötzinn aufbringen.
 
-**Wichtig! Die LEDs haben eine Polung und
-müssen richtig herum eingebaut werden. Der Pfeil auf der LED muss in die selbe Richtung zeigen wie der Pfeil daneben.**
+**Wichtig! Die LEDs haben eine Polung (Richtung). Deshalb musst du darauf achten, sie richtig herum einzubauen. Der Pfeil auf der LED muss in die selbe Richtung zeigen wie der Pfeil auf der Platine!**
 
-Wir müssen die LEDs falschherum festlöten, da wir wollen,
-dass sie nach unten leuchten. Wie bei den Widerständen
-nimmst du die LED mit der Pinzette und mit dem Lötkolben
-erhitzt du die Lötstelle. Achte auf die Richtung der LEDs.
-Wenn die LED fest ist, löten wir noch den anderen Pin fest.
+Du musst die LEDs außerdem mit der leuchtenden Seite nach unten festlöten. Später soll das Licht auf der anderen Seite der Platine zu sehen sein. 
 
-Dies wiederholst du auf der andere Seite mit der zweiten
-LED.
+Wie schon bei den Widerständen nimmst du die LED mit der Pinzette. Mit dem Lötkolben erhitzt du nochmal die verzinnte Lötstelle. Achte auf die Richtung der LED!
+Wenn die LED fest ist, lötest du wieder den anderen Pin fest.
+
+Das Ganze wiederholst du mit der zweiten LED.
 
 ## Schritt 3
 
-Schalter löten
+### Schalter löten
 
-Den Schalter löten wir genau wie die anderen Teile. Zuerst müssen wir wieder vorverzinnen. Wie immer erstmal nur eine Lötstelle.
+Den Schalter lötest du genau wie die anderen Teile. Zuerst musst du wieder vorverzinnen. Wie immer erstmal nur eine Lötstelle.
 
-Wir nehmen das Bauteil wieder mit der Pinzette, erhitzen das Zinn und schieben den Schalter in das flüssige Zinn. Achte darauf, dass die anderen Beinchen des Schalters auf den richtigen Pads liegen.
+Du nimmst den Schalter dann mit der Pinzette, erhitzt das Zinn und schiebst das Beinchen in das flüssige Zinn. Achte darauf, dass die anderen Beinchen des Schalters richtig auf den Pads (Lötstellen) liegen.
 
-Wenn wir den Schalter befestigt haben, löten wir noch die anderen Beinchen fest.
+Wenn den Schalter wie beschrieben befestigt hast, lötest du noch die restlichen Beinchen fest.
 
 ## Schritt 4
+### Batteriehalter löten
 
-Vorverzinnen: Wir tragen eine dünne Schicht auf die Lötstelle auf.
+Auch hier musst du die Lötstelle wieder vorverzinnen.
 
-**Wichtig! Achte auf die Orientierung des Batteriehalters. Die Abkantung des Batteriehalters muss mit dem Aufdruck
-übereinstimmen.**
+**Wichtig! Achte auf die Orientierung des Batteriehalters. Die Abkantung des Batteriehalters muss mit dem Aufdruck übereinstimmen. Wie schon die LED hat auch eine Batterie eine Polung (Plus und Minus).**
 
-Jetzt erhitzt du mit dem Lötkolben die Lötstelle und
-schiebst den Batteriehalter auf die Lötstelle. Da die Lötstelle sehr groß ist, ist es hilfreich die Spitze
-des Lötkolbens flach anzusetzen. Jetzt noch die andere Seite und dann sind wir fertig.
+Jetzt erhitzt du mit dem Lötkolben die verzinnte Lötstelle und
+schiebst den Batteriehalter darauf. Da die Lötstelle sehr groß ist, ist es hilfreich, die Spitze des Lötkolbens eher flach aufzusetzen. Jetzt noch die andere Seite festlöten und du hast es geschafft!
 
 ## Schritt 5
+### Batterie und Testen
 
-Batterie und Testen
+Jetzt bist du fertig mit dem Löten. Allerdings brauchst du noch eine Stromquelle, bevor die Eule funktioniert. Bei der Batterie musst du darauf achten, sie richtig herum einzusetzen. Die Seite mit dem "+" und der Schrift muss nach oben zu dir zeigen.
 
-Jetzt sind wir fertig mit dem Löten. Allerdings benötigen wir noch eine Stromquelle. Bei der Batterie müssen wir darauf achten, dass sie richtig herum eingesetzt wird. Die Seite mit dem Plus muss nach oben zeigen.
+Wenn die Batterie eingebaut ist, kannst du die Eule mit dem Schalter einschalten. Im besten Fall fangen jetzt ihre Augen an zu leuchten. Toll gemacht! 
 
-Wenn die Batterie eingebaut ist, kannst du sie zum ersten Mal anschalten. Im besten Fall fängt sie an zu leuchten.
-Wenn deine Eule nicht anfängt zu leuchten, komm zu uns und wir schauen, ob wir den Fehler gemeinsam finden können.
+Wenn deine Eule nicht anfängt zu leuchten, kein Problem: Komm zu uns. Wir schauen zusammen nach dem Fehler und helfen dir, es zu beheben.
