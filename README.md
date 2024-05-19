@@ -119,8 +119,14 @@ Jetzt noch die andere Seite festlöten und du hast es geschafft!
 
 Jetzt bist du fertig mit dem Löten. Allerdings brauchst du noch eine Spannungsquelle, bevor die Eule funktioniert. Bei der Batterie musst du darauf achten, sie richtig herum einzusetzen. Die Seite mit dem "+" und der Schrift muss nach oben zu dir zeigen.
 
+Die Batterie muss schräg in den Batteriehalter eingelget werden, sodass die Plus-Kontakte (rechts) mit der Oberseite der Batterie verbunden sind.
+
+![Alt text](doc/docu-pics/10b.jpg)
+
+Ist die Batterie korrekt platziert, musst du sie mit einiger Kraft (am besten mit dem Daumen) in den Halter drücken.
+
 ![Alt text](doc/docu-pics/11.jpg)
 
-Wenn die Batterie eingebaut ist, kannst du die Eule mit dem Schalter einschalten. Im besten Fall fangen jetzt ihre Augen an zu leuchten. Toll gemacht! 
+Ist die Batterie eingebaut, kannst du die Eule mit dem Schalter einschalten. Im besten Fall fangen jetzt ihre Augen an zu leuchten. Toll gemacht! 
 
 Wenn deine Eule nicht anfängt zu leuchten, kein Problem: Komm zu uns. Wir schauen zusammen nach dem Fehler und helfen dir, es zu beheben.
