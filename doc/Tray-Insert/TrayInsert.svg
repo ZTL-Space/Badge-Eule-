@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg height="853.40mm" viewBox="0.0 0.0 583.90 853.40" width="583.90mm" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!--
+TrayInsert - Tray insert without floor and outer walls - allows only continuous walls
+
+Created with Boxes.py (https://festi.info/boxes.py)
+Creation date: 2024-03-25 12:37:45
+Command line (remove spaces between dashes): boxes TrayInsert '- -sx=111*5' '- -sy=118*3' - -h=135 - -thickness=4.0
+Url: http://festi.info/boxes.py/TrayInsert?sx=111*5&sy=118*3&h=135&outside=0&outside=1&thickness=4.0&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&language=de&render=2
+Url short: http://festi.info/boxes.py/TrayInsert?sx=111*5&sy=118*3&h=135&thickness=4.0
+SettingsUrl: http://festi.info/boxes.py/TrayInsert?sx=111*5&sy=118*3&h=135&outside=0&outside=1&thickness=4.0&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&language=de&render=2
+SettingsUrl short: http://festi.info/boxes.py/TrayInsert?sx=111*5&sy=118*3&h=135&thickness=4.0
+-->
+<title>TrayInsert</title>
+<metadata>
+<rdf:RDF><cc:Work>
+<dc:title>Tray - TrayInsert</dc:title>
+<dc:date>2024-03-25 12:37:45</dc:date>
+<dc:source>http://festi.info/boxes.py/TrayInsert?sx=111*5&amp;sy=118*3&amp;h=135&amp;outside=0&amp;outside=1&amp;thickness=4.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=de&amp;render=2</dc:source>
+<dc:source>http://festi.info/boxes.py/TrayInsert?sx=111*5&amp;sy=118*3&amp;h=135&amp;thickness=4.0</dc:source>
+<dc:description>Tray insert without floor and outer walls - allows only continuous walls
+
+Created with Boxes.py (https://festi.info/boxes.py)
+Command line: boxes TrayInsert '--sx=111*5' '--sy=118*3' --h=135 --outside=0 --outside=1 --thickness=4.0 --format=svg --tabs=0.0 --qr_code=0 --debug=0 --labels=0 --labels=1 --reference=100 --inner_corners=loop --burn=0.1
+Command line short: boxes TrayInsert '--sx=111*5' '--sy=118*3' --h=135 --thickness=4.0
+Url: http://festi.info/boxes.py/TrayInsert?sx=111*5&amp;sy=118*3&amp;h=135&amp;outside=0&amp;outside=1&amp;thickness=4.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=de&amp;render=2
+Url short: http://festi.info/boxes.py/TrayInsert?sx=111*5&amp;sy=118*3&amp;h=135&amp;thickness=4.0
+SettingsUrl: http://festi.info/boxes.py/TrayInsert?sx=111*5&amp;sy=118*3&amp;h=135&amp;outside=0&amp;outside=1&amp;thickness=4.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=de&amp;render=2
+SettingsUrl short: http://festi.info/boxes.py/TrayInsert?sx=111*5&amp;sy=118*3&amp;h=135&amp;thickness=4.0
+</dc:description>
+</cc:Work></rdf:RDF></metadata>
+<g id="p-0" style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+  <path d="M 18.800 843.400 H 118.800 V 833.400 H 18.800 V 843.400 Z" stroke="rgb(0,0,0)" stroke-width="0.20" />
+  <text dominant-baseline="hanging" font-size="8px" style="font-family: sans-serif ; font-weight: normal; font-style: normal; fill: rgb(255,0,0)" text-anchor="middle" transform="matrix( 1.000 0.000 0.000 1.000 68.800 834.400 )">100.00mm, burn:0.10mm</text>
+</g>
+<g id="p-1" style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+  <path d="M 18.800 831.200 H 134.133 C 134.189 831.200 134.233 831.155 134.233 831.100 V 763.700 C 134.233 763.600 134.133 763.700 134.233 763.700 H 138.033 C 138.133 763.700 138.033 763.600 138.033 763.700 V 831.100 C 138.033 831.155 138.078 831.200 138.133 831.200 H 253.467 C 253.522 831.200 253.567 831.155 253.567 831.100 V 763.700 C 253.567 763.600 253.467 763.700 253.567 763.700 H 257.367 C 257.467 763.700 257.367 763.600 257.367 763.700 V 831.100 C 257.367 831.155 257.411 831.200 257.467 831.200 H 372.800 C 372.855 831.200 372.900 831.155 372.900 831.100 V 696.100 C 372.900 696.045 372.855 696.000 372.800 696.000 H 18.800 C 18.745 696.000 18.700 696.045 18.700 696.100 V 831.100 C 18.700 831.155 18.745 831.200 18.800 831.200 Z" stroke="rgb(0,0,0)" stroke-width="0.20" />
+</g>
+<g id="p-2" style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+  <path d="M 18.800 694.000 H 134.133 C 134.189 694.000 134.233 693.955 134.233 693.900 V 626.500 C 134.233 626.400 134.133 626.500 134.233 626.500 H 138.033 C 138.133 626.500 138.033 626.400 138.033 626.500 V 693.900 C 138.033 693.955 138.078 694.000 138.133 694.000 H 253.467 C 253.522 694.000 253.567 693.955 253.567 693.900 V 626.500 C 253.567 626.400 253.467 626.500 253.567 626.500 H 257.367 C 257.467 626.500 257.367 626.400 257.367 626.500 V 693.900 C 257.367 693.955 257.411 694.000 257.467 694.000 H 372.800 C 372.855 694.000 372.900 693.955 372.900 693.900 V 558.900 C 372.900 558.845 372.855 558.800 372.800 558.800 H 18.800 C 18.745 558.800 18.700 558.845 18.700 558.900 V 693.900 C 18.700 693.955 18.745 694.000 18.800 694.000 Z" stroke="rgb(0,0,0)" stroke-width="0.20" />
+</g>
+<g id="p-3" style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+  <path d="M 18.800 556.800 H 134.133 C 134.189 556.800 134.233 556.755 134.233 556.700 V 489.300 C 134.233 489.200 134.133 489.300 134.233 489.300 H 138.033 C 138.133 489.300 138.033 489.200 138.033 489.300 V 556.700 C 138.033 556.755 138.078 556.800 138.133 556.800 H 253.467 C 253.522 556.800 253.567 556.755 253.567 556.700 V 489.300 C 253.567 489.200 253.467 489.300 253.567 489.300 H 257.367 C 257.467 489.300 257.367 489.200 257.367 489.300 V 556.700 C 257.367 556.755 257.411 556.800 257.467 556.800 H 372.800 C 372.855 556.800 372.900 556.755 372.900 556.700 V 421.700 C 372.900 421.645 372.855 421.600 372.800 421.600 H 18.800 C 18.745 421.600 18.700 421.645 18.700 421.700 V 556.700 C 18.700 556.755 18.745 556.800 18.800 556.800 Z" stroke="rgb(0,0,0)" stroke-width="0.20" />
+</g>
+<g id="p-4" style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+  <path d="M 18.800 419.600 H 134.133 C 134.189 419.600 134.233 419.555 134.233 419.500 V 352.100 C 134.233 352.000 134.133 352.100 134.233 352.100 H 138.033 C 138.133 352.100 138.033 352.000 138.033 352.100 V 419.500 C 138.033 419.555 138.078 419.600 138.133 419.600 H 253.467 C 253.522 419.600 253.567 419.555 253.567 419.500 V 352.100 C 253.567 352.000 253.467 352.100 253.567 352.100 H 257.367 C 257.467 352.100 257.367 352.000 257.367 352.100 V 419.500 C 257.367 419.555 257.411 419.600 257.467 419.600 H 372.800 C 372.855 419.600 372.900 419.555 372.900 419.500 V 284.500 C 372.900 284.445 372.855 284.400 372.800 284.400 H 18.800 C 18.745 284.400 18.700 284.445 18.700 284.500 V 419.500 C 18.700 419.555 18.745 419.600 18.800 419.600 Z" stroke="rgb(0,0,0)" stroke-width="0.20" />
+</g>
+<g id="p-5" style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+  <path d="M 18.800 282.400 H 573.800 C 573.855 282.400 573.900 282.355 573.900 282.300 V 147.300 C 573.900 147.245 573.855 147.200 573.800 147.200 H 466.000 C 465.945 147.200 465.900 147.245 465.900 147.300 V 214.700 C 465.900 214.800 466.000 214.700 465.900 214.700 H 462.100 C 462.000 214.700 462.100 214.800 462.100 214.700 V 147.300 C 462.100 147.245 462.055 147.200 462.000 147.200 H 354.200 C 354.145 147.200 354.100 147.245 354.100 147.300 V 214.700 C 354.100 214.800 354.200 214.700 354.100 214.700 H 350.300 C 350.200 214.700 350.300 214.800 350.300 214.700 V 147.300 C 350.300 147.245 350.255 147.200 350.200 147.200 H 242.400 C 242.345 147.200 242.300 147.245 242.300 147.300 V 214.700 C 242.300 214.800 242.400 214.700 242.300 214.700 H 238.500 C 238.400 214.700 238.500 214.800 238.500 214.700 V 147.300 C 238.500 147.245 238.455 147.200 238.400 147.200 H 130.600 C 130.545 147.200 130.500 147.245 130.500 147.300 V 214.700 C 130.500 214.800 130.600 214.700 130.500 214.700 H 126.700 C 126.600 214.700 126.700 214.800 126.700 214.700 V 147.300 C 126.700 147.245 126.655 147.200 126.600 147.200 H 18.800 C 18.745 147.200 18.700 147.245 18.700 147.300 V 282.300 C 18.700 282.355 18.745 282.400 18.800 282.400 Z" stroke="rgb(0,0,0)" stroke-width="0.20" />
+</g>
+<g id="p-6" style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+  <path d="M 18.800 145.200 H 573.800 C 573.855 145.200 573.900 145.155 573.900 145.100 V 10.100 C 573.900 10.045 573.855 10.000 573.800 10.000 H 466.000 C 465.945 10.000 465.900 10.045 465.900 10.100 V 77.500 C 465.900 77.600 466.000 77.500 465.900 77.500 H 462.100 C 462.000 77.500 462.100 77.600 462.100 77.500 V 10.100 C 462.100 10.045 462.055 10.000 462.000 10.000 H 354.200 C 354.145 10.000 354.100 10.045 354.100 10.100 V 77.500 C 354.100 77.600 354.200 77.500 354.100 77.500 H 350.300 C 350.200 77.500 350.300 77.600 350.300 77.500 V 10.100 C 350.300 10.045 350.255 10.000 350.200 10.000 H 242.400 C 242.345 10.000 242.300 10.045 242.300 10.100 V 77.500 C 242.300 77.600 242.400 77.500 242.300 77.500 H 238.500 C 238.400 77.500 238.500 77.600 238.500 77.500 V 10.100 C 238.500 10.045 238.455 10.000 238.400 10.000 H 130.600 C 130.545 10.000 130.500 10.045 130.500 10.100 V 77.500 C 130.500 77.600 130.600 77.500 130.500 77.500 H 126.700 C 126.600 77.500 126.700 77.600 126.700 77.500 V 10.100 C 126.700 10.045 126.655 10.000 126.600 10.000 H 18.800 C 18.745 10.000 18.700 10.045 18.700 10.100 V 145.100 C 18.700 145.155 18.745 145.200 18.800 145.200 Z" stroke="rgb(0,0,0)" stroke-width="0.20" />
+</g>
+</svg>
