@@ -1,15 +1,15 @@
 # Entnervte Eule - Lötanleitung
 
 ## Einleitung
-Die Entnervte Eule ist ein einfacher Bausatz zum selber zusammenlöten, der im ZTL dem Zentrum für Technikkultur in Landau designed wurde.
+Die Entnervte Eule ist ein einfacher Bausatz zum selber zusammenlöten, der im ZTL, dem Zentrum für Technikkultur in Landau, designed wurde.
 
-Die Eule gibt es in 12 verschiedenen Varianten zu wahl.
+Die Eule gibt es in 12 verschiedenen Varianten zur Wahl.
 Die Platine ist entweder Weiß/Silbern oder Schwarz/Gold.
-Die LEDs, die die Augen darstellen gibt es in Rot, Gelb, Grün, Blau, langsamer Farbwechsel und schneller Farbwechsel.
+Die LEDs, die die Augen darstellen, gibt es in Rot, Gelb, Grün, Blau, langsamer Farbwechsel und schneller Farbwechsel.
 
 ## Auspacken
 
-Die Bauteile kommen in einem Wiederverschließbaren Beutel, den ihr am Ende mit nach Hause nehmen oder uns zur zurück geben könnt. Dann wird er wiederverwendet.
+Die Bauteile kommen in einem wiederverschließbaren Beutel, den ihr am Ende mit nach Hause nehmen oder uns zurück geben könnt. Dann wird er wiederverwendet.
 
 ![](doc/detailed-docu-pics/IMG_0131.JPG "Wiederverschließbarer Beutel")
 
@@ -54,7 +54,7 @@ Bitte lass das zweite Pad noch frei.
   <img src="doc/detailed-docu-pics/IMG_0140.JPG" width="49%" />
 </p>
 
-Das gleiche machst du bei R2.
+Das Gleiche machst du bei R2.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0141.JPG" width="49%" />
@@ -63,14 +63,14 @@ Das gleiche machst du bei R2.
 
 ### Bauteile platzieren
 
-Nimm die Pinzette in deine schwache Hand und den Lötkolben in die starke. Du musste das Lötzinn vom Vorverzinnen auf einem der Pads erneut aufschmelzen und einen Widerstand mit der Pinzette von der Seite hineinschieben. Ist der Widerstand korrekt platziert, nimmst du den Lötkolben weg und wartest ein paar Sekunden, bis das Lötzinn wieder fest ist. Dann kannst du das Bauteil mit der Pinzette loslassen.
+Nimm die Pinzette in deine schwache Hand und den Lötkolben in die starke. Du musst das Lötzinn vom Vorverzinnen auf einem der Pads erneut aufschmelzen und einen Widerstand mit der Pinzette von der Seite hineinschieben. Ist der Widerstand korrekt platziert, nimmst du den Lötkolben weg und wartest ein paar Sekunden, bis das Lötzinn wieder fest ist. Dann kannst du das Bauteil mit der Pinzette loslassen.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0143.JPG" width="49%" />
   <img src="doc/detailed-docu-pics/IMG_0144.JPG" width="49%" />
 </p>
 
-Das gleiche wiederholst du für den zweiten Widerstand.
+Das Gleiche wiederholst du für den zweiten Widerstand.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0145.JPG" width="49%" />
@@ -94,7 +94,7 @@ Jetzt sind die Widerstände nur auf einer Seite verbunden. Mit dem Lötzinn und 
 
 ### Auspacken
 
-Nun musst die beiden LEDs aus dem Plastikgurt heraus holen.
+Nun musst du die beiden LEDs aus dem Plastikgurt heraus holen.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0150.JPG" width="49%" />
@@ -116,7 +116,7 @@ Verzinne ein Pad von D1.
   <img src="doc/detailed-docu-pics/IMG_0155.JPG" width="49%" />
 </p>
 
-Das gleiche machst du bei D2.
+Das Gleiche machst du bei D2.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0156.JPG" width="49%" />
@@ -125,14 +125,14 @@ Das gleiche machst du bei D2.
 
 ### Bauteile platzieren
 
-Da wir die LEDs "auf dem Kopf" auflöten, geht das ein bisschen schwieriger als bei den Widerständen, vom Prinzip ist es aber das gleiche. Befestige zu erst D1.
+Da wir die LEDs "auf dem Kopf" auflöten, geht das ein bisschen schwieriger als bei den Widerständen, vom Prinzip ist es aber das Gleiche. Befestige zuerst D1.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0158.JPG" width="49%" />
   <img src="doc/detailed-docu-pics/IMG_0158.JPG" width="49%" />
 </p>
 
-Das gleiche wiederholst du für D2.
+Das Gleiche wiederholst du für D2.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0160.JPG" width="49%" />
@@ -157,7 +157,7 @@ Verlöte jetzt die andere Seite von D1 und D2
 
 ### Vorverzinnen
 
-Verzinne exakt nur ein Pad von SW1. Wirklch. Nur eins.
+Verzinne exakt nur ein Pad von SW1. Wirklich. Nur eins.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0166.JPG" width="49%" />
@@ -196,7 +196,7 @@ Verzinne ein Pad des Knopfzellenhalters
 ### Bauteil platzieren
 
 Den Knopfzellenhalter kannst du mit der Hand platzieren.
-Drücke mit der Lötkolbenspitze auf das Metallfähnchen bis das darunter leigende Lötzinn aufgeschmolzen ist und der Halter einsinkt.
+Drücke mit der Lötkolbenspitze auf das Metallfähnchen bis das darunter liegende Lötzinn aufgeschmolzen ist und der Halter einsinkt.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0174.JPG" width="49%" />
@@ -215,7 +215,7 @@ Verlöte die zweite Lötfahne des Knopfzellenhalters.
 
 ### Auspacken
 
-Entferne das Crepband von der Knopfzelle.
+Entferne das Kreppband von der Knopfzelle.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0177.JPG" width="49%" />
