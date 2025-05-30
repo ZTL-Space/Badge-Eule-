@@ -78,7 +78,7 @@ Das gleiche wiederholst du für den zweiten Widerstand.
 
 ### Bauteile festlöten
 
-Jetzt sind die Widerstände nur auf einer Seite verbunden. Mit dem Lötzinn und dem Lötkolben musst du jetzt noch die andere Seite verlöten.
+Jetzt sind die Widerstände nur auf einer Seite verbunden. Mit dem Lötzinn und dem Lötkolben musst du auch noch die andere Seite verlöten.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0146.JPG" width="49%" />
@@ -101,10 +101,11 @@ Nun musst die beiden LEDs aus dem Plastikgurt heraus holen.
   <img src="doc/detailed-docu-pics/IMG_0151.JPG" width="49%" />
 </p>
 
-Die LEDs haben einen Pfeil, der anzeigt in welcher Orientierung sie aufgelötet werden müssen.
+Die LEDs haben einen Pfeil, der anzeigt in welcher Orientierung sie aufgelötet werden müssen. Je nach Farbe der LED kann der Pfeil unterschiedlich aussehen.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0152.JPG" width="49%" />
+  <img src="doc/detailed-docu-pics/IMG_0186.JPG" width="49%" />
 </p>
 
 ### Vorverzinnen
@@ -120,12 +121,12 @@ Das gleiche machst du bei D2.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0156.JPG" width="49%" />
-  <img src="doc/detailed-docu-pics/IMG_0167.JPG" width="49%" />
+  <img src="doc/detailed-docu-pics/IMG_0157.JPG" width="49%" />
 </p>
 
 ### Bauteile platzieren
 
-Da wir die LEDs "auf dem Kopf" auflöten, geht das ein bisschen schwieriger als bei den Widerständen, vom Prinzip ist es aber das gleiche. Befestige zu erst D1.
+Da wir die LEDs "auf dem Kopf" auflöten, geht das ein bisschen schwieriger als bei den Widerständen, vom Prinzip ist es aber das gleiche. Befestige zu erst D1. Achte darauf, dass der Pfeil auf der LED in die gleiche Richtung zeigt wie der Pfeil auf der Platine. In Richtung Kopf der Eule.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0158.JPG" width="49%" />
@@ -241,5 +242,5 @@ Wenn du den Schalter auf On stellst, sollten beide LEDs leuchten.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0182.JPG" width="49%" />
-  <img src="doc/detailed-docu-pics/IMG_0183.JPG" width="49%" />
+  <img src="doc/detailed-docu-pics/IMG_0184.JPG" width="49%" />
 </p>
