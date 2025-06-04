@@ -130,7 +130,7 @@ Da wir die LEDs "auf dem Kopf" auflöten, geht das ein bisschen schwieriger als 
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0158.JPG" width="49%" />
-  <img src="doc/detailed-docu-pics/IMG_0158.JPG" width="49%" />
+  <img src="doc/detailed-docu-pics/IMG_0159.JPG" width="49%" />
 </p>
 
 Das Gleiche wiederholst du für D2.
