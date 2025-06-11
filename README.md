@@ -198,6 +198,7 @@ Verzinne ein Pad des Knopfzellenhalters
 
 Den Knopfzellenhalter kannst du mit der Hand platzieren.
 Drücke mit der Lötkolbenspitze auf das Metallfähnchen bis das darunter liegende Lötzinn aufgeschmolzen ist und der Halter einsinkt.
+Achte darauf den Halter richtig herum anzulöten. Eine Ecke des Halters ist abgeschrägt. Diese Schräge kannst du auch auf dem Bestückungsdruck sehen.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0174.JPG" width="49%" />
