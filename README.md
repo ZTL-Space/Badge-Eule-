@@ -1,11 +1,11 @@
 # Entnervte Eule - Lötanleitung
 
 ## Einleitung
-Die Entnervte Eule ist ein einfacher Bausatz zum selber zusammenlöten, der im ZTL, dem Zentrum für Technikkultur in Landau, designed wurde.
+Die Entnervte Eule ist ein einfacher Bausatz zum selber Zusammenlöten, der im ZTL, dem Zentrum für Technikkultur in Landau, designed wurde.
 
 Die Eule gibt es in 12 verschiedenen Varianten zur Wahl.
 Die Platine ist entweder Weiß/Silbern oder Schwarz/Gold.
-Die LEDs, die die Augen darstellen, gibt es in Rot, Gelb, Grün, Blau, langsamer Farbwechsel und schneller Farbwechsel.
+Die LEDs, welche die Augen darstellen, gibt es in Rot, Gelb, Grün, Blau, langsamer Farbwechsel und schneller Farbwechsel.
 
 ## Auspacken
 
@@ -142,7 +142,7 @@ Das Gleiche machst du bei D2.
 
 ### Bauteile platzieren
 
-Da wir die LEDs "auf dem Kopf" auflöten, geht das ein bisschen schwieriger als bei den Widerständen, vom Prinzip ist es aber das Gleiche. Befestige zu erst D1. Achte darauf, dass der Pfeil auf der LED in die gleiche Richtung zeigt wie der Pfeil auf der Platine. In Richtung Kopf der Eule.
+Da wir die LEDs "auf dem Kopf" auflöten, geht das ein bisschen schwieriger als bei den Widerständen, vom Prinzip ist es aber das Gleiche. Befestige zu erst D1. **Achte darauf, dass der Pfeil auf der LED in die gleiche Richtung zeigt wie der Pfeil auf der Platine, in Richtung Kopf der Eule.**
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0158.JPG" width="49%" />
@@ -178,7 +178,7 @@ Verlöte jetzt die andere Seite von D1 und D2
 
 ### Vorverzinnen
 
-Verzinne exakt nur ein Pad von SW1. Wirklich. Nur eins.
+Verzinne exakt nur ein Pad von SW1. Wirklich. **Nur eins!**
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0166.JPG" width="49%" />
@@ -220,7 +220,7 @@ Verzinne ein Pad des Knopfzellenhalters
 
 Den Knopfzellenhalter kannst du mit der Hand platzieren.
 Drücke mit der Lötkolbenspitze auf das Metallfähnchen bis das darunter liegende Lötzinn aufgeschmolzen ist und der Halter einsinkt.
-Achte darauf den Halter richtig herum anzulöten. Eine Ecke des Halters ist abgeschrägt. Diese Schräge kannst du auch auf dem Bestückungsdruck sehen.
+**Achte darauf, den Halter richtig herum anzulöten. Eine Ecke des Halters ist abgeschrägt. Diese Schräge kannst du auch auf dem Bestückungsdruck sehen.**
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0174.JPG" width="47%" />
@@ -249,7 +249,7 @@ Entferne das Kreppband von der Knopfzelle.
 
 ### Einlegen
 
-Lege die Knopfzelle mit der glatten Seite nach oben in den Knopfzellenhalter ein. Achte darauf, dass die Knopfzelle unter den kurzen Metallkontakten ist und drücke sie mit dem Daumen ein, bis sie einrastet.
+Lege die Knopfzelle mit der glatten Seite nach oben in den Knopfzellenhalter ein. Achte darauf, dass die Knopfzelle **unter** den kurzen Metallkontakten ist und drücke sie mit dem Daumen ein, bis sie einrastet.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0179.JPG" width="49%" />
@@ -270,3 +270,7 @@ Wenn du den Schalter auf On stellst, sollten beide LEDs leuchten.
   <img src="doc/detailed-docu-pics/IMG_0182.JPG" width="49%" />
   <img src="doc/detailed-docu-pics/IMG_0184.JPG" width="49%" />
 </p>
+
+Glückwunsch! Wirf den Müll in die Müllbehälter und lege die Werkzeuge wieder auf das Brett.
+
+Sollte die Eule nicht funktionieren, sag uns bescheid und wir helfen dir den Fehler zu finden.
