@@ -13,6 +13,8 @@ Die Bauteile kommen in einem wiederverschließbaren Beutel, den ihr am Ende mit 
 
 ![](doc/detailed-docu-pics/IMG_0131.JPG "Wiederverschließbarer Beutel")
 
+<div style="page-break-after: always;"></div>
+
 ## Die Bauteile
 
 Folgende Bauteile sollten in der Tüte sein:
@@ -26,6 +28,8 @@ Folgende Bauteile sollten in der Tüte sein:
 
 
 ![](doc/detailed-docu-pics/IMG_0133.JPG "Bauteile")
+
+<div style="page-break-after: always;"></div>
 
 ## Widerstände - R1 und R2
 
@@ -42,6 +46,8 @@ Zuerst musst du die beiden Widerstände aus dem Papiergurt befreien, indem du mi
   <img src="doc/detailed-docu-pics/IMG_0137.JPG" width="49%" />
   <img src="doc/detailed-docu-pics/IMG_0138.JPG" width="49%" />
 </p>
+
+<div style="page-break-after: always;"></div>
 
 ### Vorverzinnen
 
@@ -61,6 +67,8 @@ Das Gleiche machst du bei R2.
   <img src="doc/detailed-docu-pics/IMG_0142.JPG" width="49%" />
 </p>
 
+<div style="page-break-after: always;"></div>
+
 ### Bauteile platzieren
 
 Nimm die Pinzette in deine schwache Hand und den Lötkolben in die starke. Du musst das Lötzinn vom Vorverzinnen auf einem der Pads erneut aufschmelzen und einen Widerstand mit der Pinzette von der Seite hineinschieben. Ist der Widerstand korrekt platziert, nimmst du den Lötkolben weg und wartest ein paar Sekunden, bis das Lötzinn wieder fest ist. Dann kannst du das Bauteil mit der Pinzette loslassen.
@@ -76,6 +84,8 @@ Das Gleiche wiederholst du für den zweiten Widerstand.
   <img src="doc/detailed-docu-pics/IMG_0145.JPG" width="49%" />
 </p>
 
+<div style="page-break-after: always;"></div>
+
 ### Bauteile festlöten
 
 Jetzt sind die Widerstände nur auf einer Seite verbunden. Mit dem Lötzinn und dem Lötkolben musst du auch noch die andere Seite verlöten.
@@ -89,6 +99,8 @@ Jetzt sind die Widerstände nur auf einer Seite verbunden. Mit dem Lötzinn und 
   <img src="doc/detailed-docu-pics/IMG_0148.JPG" width="49%" />
   <img src="doc/detailed-docu-pics/IMG_0149.JPG" width="49%" />
 </p>
+
+<div style="page-break-after: always;"></div>
 
 ## LEDs - D1 und D2
 
@@ -108,6 +120,8 @@ Die LEDs haben einen Pfeil, der anzeigt in welcher Orientierung sie aufgelötet 
   <img src="doc/detailed-docu-pics/IMG_0186.JPG" width="49%" />
 </p>
 
+<div style="page-break-after: always;"></div>
+
 ### Vorverzinnen
 
 Verzinne ein Pad von D1.
@@ -123,6 +137,8 @@ Das Gleiche machst du bei D2.
   <img src="doc/detailed-docu-pics/IMG_0156.JPG" width="49%" />
   <img src="doc/detailed-docu-pics/IMG_0157.JPG" width="49%" />
 </p>
+
+<div style="page-break-after: always;"></div>
 
 ### Bauteile platzieren
 
@@ -140,6 +156,8 @@ Das Gleiche wiederholst du für D2.
   <img src="doc/detailed-docu-pics/IMG_0161.JPG" width="49%" />
 </p>
 
+<div style="page-break-after: always;"></div>
+
 ### Bauteile festlöten
 
 Verlöte jetzt die andere Seite von D1 und D2
@@ -153,6 +171,8 @@ Verlöte jetzt die andere Seite von D1 und D2
   <img src="doc/detailed-docu-pics/IMG_0164.JPG" width="49%" />
   <img src="doc/detailed-docu-pics/IMG_0165.JPG" width="49%" />
 </p>
+
+<div style="page-break-after: always;"></div>
 
 ## Schiebeschalter - SW1
 
@@ -183,6 +203,8 @@ Befestige die restlichen Beinchen
   <img src="doc/detailed-docu-pics/IMG_0171.JPG" width="49%" />
 </p>
 
+<div style="page-break-after: always;"></div>
+
 ## Knopfzellenhalter - BT1
 
 ### Vorverzinnen
@@ -190,8 +212,8 @@ Befestige die restlichen Beinchen
 Verzinne ein Pad des Knopfzellenhalters
 
 <p float="left">
-  <img src="doc/detailed-docu-pics/IMG_0172.JPG" width="49%" />
-  <img src="doc/detailed-docu-pics/IMG_0173.JPG" width="49%" />
+  <img src="doc/detailed-docu-pics/IMG_0172.JPG" width="47%" />
+  <img src="doc/detailed-docu-pics/IMG_0173.JPG" width="47%" />
 </p>
 
 ### Bauteil platzieren
@@ -201,7 +223,7 @@ Drücke mit der Lötkolbenspitze auf das Metallfähnchen bis das darunter liegen
 Achte darauf den Halter richtig herum anzulöten. Eine Ecke des Halters ist abgeschrägt. Diese Schräge kannst du auch auf dem Bestückungsdruck sehen.
 
 <p float="left">
-  <img src="doc/detailed-docu-pics/IMG_0174.JPG" width="49%" />
+  <img src="doc/detailed-docu-pics/IMG_0174.JPG" width="47%" />
 </p>
 
 ### Bauteil festlöten
@@ -209,9 +231,10 @@ Achte darauf den Halter richtig herum anzulöten. Eine Ecke des Halters ist abge
 Verlöte die zweite Lötfahne des Knopfzellenhalters.
 
 <p float="left">
-  <img src="doc/detailed-docu-pics/IMG_0176.JPG" width="49%" />
+  <img src="doc/detailed-docu-pics/IMG_0176.JPG" width="47%" />
 </p>
 
+<div style="page-break-after: always;"></div>
 
 ## Knopfzelle
 
@@ -237,11 +260,13 @@ Lege die Knopfzelle mit der glatten Seite nach oben in den Knopfzellenhalter ein
   <img src="doc/detailed-docu-pics/IMG_0181.JPG" width="49%" />
 </p>
 
+<div style="page-break-after: always;"></div>
+
 ### Anschalten und ausprobieren
 
 Wenn du den Schalter auf On stellst, sollten beide LEDs leuchten.
 
 <p float="left">
   <img src="doc/detailed-docu-pics/IMG_0182.JPG" width="49%" />
-  <img src="doc/detailed-docu-pics/IMG_0183.JPG" width="49%" />
+  <img src="doc/detailed-docu-pics/IMG_0184.JPG" width="49%" />
 </p>
